@@ -85,7 +85,7 @@ Compose выдал предупреждение, что поле version в фа
 - docker-compose.yml
 - README.md
 
-Локально сделаны коммиты: на ветке main — README, на ветке feature/docker-tasks — конфигурация Docker. В этот репозиторий материалы выложены веткой task3.
+Материалы лабораторной размещены на ветке task3: https://github.com/KalininaIrina/KozlovLabs/tree/task3. Pull request: https://github.com/KalininaIrina/KozlovLabs/pull/3.
 
 6. Ответы на контрольные вопросы
 
